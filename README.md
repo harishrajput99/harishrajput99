@@ -31,8 +31,7 @@ I love the entire process of solving complex business problems leveraging data &
 <a href="https://www.linkedin.com/in/harishsingh-rajput-113355hs/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
 <a href="https://harishrajput99.github.io/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/e3f66f35-bbf1-44f2-82fb-5fae85dca3a1" alt="Tushar | LinkedIn" width="170px" height="43px"/></a>
 
-
-- 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
+💬 If you have any project collaboration request, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
