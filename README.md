@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="tushar2704" /> </h3>
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">
-I'm <a href="https://https://harishrajput99.github.io/" target="_blank" rel="noreferrer">Harish Rajput</a> 👋
+I'm <a href="https://harishrajput99.github.io/" target="_blank" rel="noreferrer">Harish Rajput</a> 👋
 </h1>
 
 
@@ -28,11 +28,8 @@ I love the entire process of solving complex business problems leveraging data &
 
 ### 🤝 Connect with me 🤝
 
-<a href="https://www.linkedin.com/in/tusharaggarwalinseec/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
-<a href="https://www.tushar-aggarwal.com/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/e3f66f35-bbf1-44f2-82fb-5fae85dca3a1" alt="Tushar | LinkedIn" width="170px" height="43px"/></a>
-<a href="https://medium.com/@tushar_aggarwal"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
-<a href="https://tadata.substack.com/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/116409dc-f006-47de-853b-d1c8eb4067e8" alt="Tushar | LinkedIn" width="170px"/></a>
-<a href="https://www.novypro.com/profile_projects/tusharagg"><img align="center" src="https://github.com/tushar2704/tushar2704/assets/66141195/43488e50-092a-4974-8be4-a3d24673f445" alt="Tushar | Medium" width="150px" height="39px"/></a>
+<a href="https://www.linkedin.com/in/harishsingh-rajput-113355hs/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
+<a href="https://harishrajput99.github.io/"><img align="left" src="https://github.com/tushar2704/tushar2704/assets/66141195/e3f66f35-bbf1-44f2-82fb-5fae85dca3a1" alt="Tushar | LinkedIn" width="170px" height="43px"/></a>
 
 - 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
 
