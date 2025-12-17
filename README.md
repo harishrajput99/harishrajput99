@@ -66,7 +66,7 @@ I love the entire process of solving complex business problems leveraging data &
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) -->
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](![Static Badge](https://img.shields.io/badge/Confluence-blue)?style=for-the-badge&logo=Confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-blue?style=for-the-badge&logo=Confluence&logoColor=white)
 <!-- ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![PREZI](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white) -->
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
