@@ -24,18 +24,22 @@ I'm <a href="https://harishrajput99.github.io/" target="_blank" rel="noreferrer"
 </h1>
 
 
-I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. M
+I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business.
 
 ### 🤝 Connect with me 🤝
 
 <a href="https://www.linkedin.com/in/harishsingh-rajput-113355hs/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
-<a href="https://harishrajput99.github.io/"><img align="left" src="asset1" alt="Tushar | LinkedIn" width="170px" height="43px"/></a>
+<a href="https://harishrajput99.github.io/"><img align="left" src="images.png" alt="Harish | LinkedIn" width="170px" height="43px"/></a>
+
 
 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- My Saas platforms
+- My portfolio projects focused around data anlysis, strategic problem solving
+- Product development and lifecycle
+- Tech skills and AI usage
+- Interpersonal and leadership skills
   
 
 ## 💼 Technical Skills
@@ -48,7 +52,6 @@ I love the entire process of solving complex business problems leveraging data &
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) -->
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -63,10 +66,8 @@ I love the entire process of solving complex business problems leveraging data &
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) -->
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![GITHUB ACTIONS](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 <!-- ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![PREZI](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white) -->
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -93,6 +94,7 @@ I love the entire process of solving complex business problems leveraging data &
 ![GIT Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white) -->
+
 ## 📝 Latest Blog Posts
 
 
