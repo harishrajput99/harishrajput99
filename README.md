@@ -32,7 +32,7 @@ I love the entire process of solving complex business problems leveraging data &
 <a href="https://harishrajput99.github.io/"><img align="left" src="images.png" alt="Harish | LinkedIn" width="170px" height="43px"/></a>
 
 
-💬 If you have any project collaboration request, please do not hesitate to reach out to me!
+If you have any project collaboration request, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
