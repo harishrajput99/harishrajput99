@@ -38,6 +38,7 @@ If you have any project collaboration request, please do not hesitate to reach o
 
 ## 🔭 I'm currently working on
 
+- MBA degree project on Cross-Border Banking & Regulation: Challenges, Compliance, and Future Trends
 - My portfolio projects focused around data anlysis, strategic problem solving
 - Product development and lifecycle
 - Tech skills and AI usage
